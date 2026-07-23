@@ -160,11 +160,6 @@ AI-powered network intrusion detection system for IoT traffic, featuring a tuned
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Zunaira-Noor123&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" />
-</div>
 
 ---
 
