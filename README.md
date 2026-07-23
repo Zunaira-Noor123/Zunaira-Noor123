@@ -95,7 +95,7 @@ Currently learning and building low-level networking applications:
 
 ### 🔍 Dropout Radar — Churn Prediction Dashboard
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zunaira-Noor123&repo=Dropout_Radar_Project&theme=radical&border_color=9D4EDD&title_color=FF66C4&text_color=c9c9c9&bg_color=30,1a0a2e,6A00F4" />
+<img src="https://github-readme-stats-pink-three-45.vercel.app/api/pin/?username=Zunaira-Noor123&repo=Dropout_Radar_Project&theme=radical&border_color=9D4EDD&title_color=FF66C4&text_color=c9c9c9&bg_color=30,1a0a2e,6A00F4" />
 
 Leakage-safe ML dashboard for telco customer churn prediction, comparing Logistic Regression, SVM, k-NN & Naive Bayes on the IBM Telco dataset — with SMOTE-balanced pipelines and hyperparameter tuning.
 
@@ -112,7 +112,7 @@ Leakage-safe ML dashboard for telco customer churn prediction, comparing Logisti
 
 ### 🛰️ IoT Network Intrusion Detection
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zunaira-Noor123&repo=iot-network-intrusion-detection&theme=radical&border_color=9D4EDD&title_color=FF66C4&text_color=c9c9c9&bg_color=30,1a0a2e,6A00F4" />
+<img src="https://github-readme-stats-pink-three-45.vercel.app/api/pin/?username=Zunaira-Noor123&repo=iot-network-intrusion-detection&theme=radical&border_color=9D4EDD&title_color=FF66C4&text_color=c9c9c9&bg_color=30,1a0a2e,6A00F4" />
 
 AI-powered network intrusion detection system for IoT traffic, featuring a tuned ANN classifier with a multi-agent inference pipeline and an interactive real-time threat classification dashboard.
 
@@ -150,8 +150,8 @@ AI-powered network intrusion detection system for IoT traffic, featuring a tuned
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Zunaira-Noor123&show_icons=true&theme=radical&border_color=9D4EDD&title_color=FF66C4&icon_color=C77DFF&text_color=c9c9c9&bg_color=30,1a0a2e,6A00F4" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zunaira-Noor123&layout=compact&theme=radical&border_color=9D4EDD&title_color=FF66C4&text_color=c9c9c9&bg_color=30,1a0a2e,6A00F4" width="35%" />
+<img src="https://github-readme-stats-pink-three-45.vercel.app/api?username=Zunaira-Noor123&show_icons=true&theme=radical&border_color=9D4EDD&title_color=FF66C4&icon_color=C77DFF&text_color=c9c9c9&bg_color=30,1a0a2e,6A00F4" width="49%" />
+<img src="https://github-readme-stats-pink-three-45.vercel.app/api/top-langs/?username=Zunaira-Noor123&layout=compact&theme=radical&border_color=9D4EDD&title_color=FF66C4&text_color=c9c9c9&bg_color=30,1a0a2e,6A00F4" width="35%" />
 </div>
 
 <div align="center">
@@ -189,3 +189,4 @@ AI-powered network intrusion detection system for IoT traffic, featuring a tuned
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:9D4EDD,100:FF66C4&height=120&section=footer" width="100%"/>
 </div>
+
